@@ -1,0 +1,15 @@
+h1 {
+    text-align: left;
+}
+h2 {
+    text-align: left;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 500;
+}
+#p1 {
+    text-align: center;
+}
+#p2 {
+    text-align: right;
+    font-family: 'Times New Roman', Times, serif;
+}
